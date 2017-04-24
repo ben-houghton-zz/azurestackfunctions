@@ -2,7 +2,7 @@
 
 
 
-This is a 45 minute session to demonstrate rapid innovation using Azure Functions, Cognitive Services and Node.js on both Azure and Azure Stack
+This is a 45 minute session to demonstrate rapid innovation using Azure Functions, Cognitive Services and Node.js on both Azure and Azure Stack. The [Lab Guide](SummitLab.pdf) will walk you through the steps required. 
 
 In this session you can -
 

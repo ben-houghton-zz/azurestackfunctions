@@ -17,5 +17,7 @@ https://azure.microsoft.com/en-us/services/cognitive-services/
 
 - You will then redeploy this exact code to Azure Stack, demonstrating how interoperable the two environments are
 
+- You can also try some of the other Function code to try the Computer Vision and Key Phrase Analysis APIs.
+
 You will need Cognitive Service keys for the Computer Vision and Text Analytics APIs
 
